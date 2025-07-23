@@ -6,7 +6,7 @@ I'm Suman Panja , Student of Bachelors of Engineering<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___s__u__m__a__n__45___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suman-panja-934694314) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@panjasuman2005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumanpanja2005@gmail.com) 
 
 
-<img src="https://komarev.com/ghpvc/?username=sumanpanja2005&label=🕵️&color=blue" alt="bismay dey" />
+<img src="https://komarev.com/ghpvc/?username=sumanpanja2005&label=🕵️&color=blue" alt="sumanpanja" />
 
 
 # 💻 Tech Stack:
