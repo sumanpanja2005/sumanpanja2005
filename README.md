@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Suman panja , a Information<br> Technology department student <br>of University institute of technology,<br>Burdwan university 
+I am Suman panja , a Information<br> Technology department student of University institute of technology,Burdwan university 
 
 
 <img src="https://komarev.com/ghpvc/?username=sumanpanja2005&label=🕵️&color=blue" alt="sumanpanja" />
