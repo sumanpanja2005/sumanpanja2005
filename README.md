@@ -26,6 +26,9 @@ I am Suman panja , a Information<br> Technology department student of University
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanpanja2005&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+## 🐍 Snake eating my contributions
+
+![snake gif](https://github.com/sumanpanja2005/sumanpanja2005/blob/output/github-contribution-grid-snake.svg)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sumanpanja2005&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
