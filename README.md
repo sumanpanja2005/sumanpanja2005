@@ -23,7 +23,7 @@ I am Suman panja , a Information<br> Technology department student of University
 
 ## 📊 GitHub Contribution Graph
 
-[![Suman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumanpanja2005&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumanpanja2005&bg_color=000000&color=6ecef7&line=20fe9e&point=fbff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sumanpanja2005&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
